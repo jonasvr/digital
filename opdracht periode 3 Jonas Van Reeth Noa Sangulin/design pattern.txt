@@ -1,0 +1,13 @@
+Door plaatst gebrek op mijn pc heb ik enkel dit om door te sturen.
+Het is gewoon als bij de MPH IMAGE te plakken.
+
+Mijn exuses hiervoor.
+
+
+
+
+OXO spel - buurtelings plaatsten van ieders symbool, 
+het programma plaatst op random plaatsten waar nog geen x of o staat.
+
+punten worden opgetelt zolang het spel actief.
+afsluiten van het spel reset al de scores.
